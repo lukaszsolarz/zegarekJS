@@ -1,0 +1,1 @@
+Strona pokazuj¹ca aktualn¹ godzinê w oparciu o czas ustawiony w komputerze. 
